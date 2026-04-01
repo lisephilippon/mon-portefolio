@@ -1,5 +1,10 @@
 @media screen and (width>=40rem){
 
+.contenu-principal {
+    display: grid;
+    place-items: center;
+}
+
 header {
     font-size: 5rem;
 }
